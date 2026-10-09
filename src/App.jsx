@@ -68,7 +68,7 @@ function App() {
         </section>
 
         <section className="contact wrap" id="contact">
-          <div><div className="eyebrow">Your AI journey starts here</div><h2>Curious? Let's talk.</h2><p>Tell us what you want to learn, and we’ll help you choose a class.</p></div>
+          <div><div className="eyebrow">Your AI journey starts here</div><h2>Curious? Let's talk.</h2><p>Tell us what you want to learn, and we’ll help you choose a class.</p><a className="address" href="https://www.google.com/maps/search/?api=1&query=Plot%20no%20339A%2C%204-32-1566%2C%20Allwyn%20Colony%20Phase%202%2C%20Kukatpally%2C%20Hyderabad" target="_blank" rel="noreferrer"><span>⌖</span> Plot No. 339A, 4-32-1566, Allwyn Colony Phase 2,<br className="address-break" /> Kukatpally, Hyderabad <span className="map-link">Open map ↗</span></a></div>
           <a className="button button-light" href="mailto:hello@lumanara.com?subject=AI%20class%20enquiry">Send an email <span>↗</span></a>
         </section>
       </main>
