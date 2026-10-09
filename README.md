@@ -26,3 +26,4 @@ Keep the terminal open. Click the local address Vite prints (usually `http://loc
 Update the contact email (`hello@lumanara.com`) in `src/App.jsx` before publishing. Vercel’s [custom domain guide](https://vercel.com/docs/domains/set-up-custom-domain) has current DNS instructions.
 # lumanara
 # lumanara
+# lumanara
